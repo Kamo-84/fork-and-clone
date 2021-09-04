@@ -1,5 +1,7 @@
 # fork-and-clone
 
-*Animals*
+_Animals_
+
 - Hors
 - Monkey
+- Dog
