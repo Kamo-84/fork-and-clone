@@ -5,3 +5,4 @@ _Animals_
 - Hors
 - Monkey
 - Cat
+- Dog
